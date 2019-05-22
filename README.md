@@ -1,3 +1,6 @@
+<img src="cclogo.png" align="left" />
+
+
 # A Crowdsourcing Exchange for mapping various sources of Information security vulnerabilities, exposures, threats, and controls data
 
 ## What are you asking?
