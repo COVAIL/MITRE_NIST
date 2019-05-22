@@ -66,15 +66,21 @@ Please ensure your pull request adheres to the following guidelines:
 Thank you for your suggestions!
 
 ## Versioning
-
-
+1.0
 ## Authors
-
-
-
+Gina Greco
+Jody Denner
+Brandon Ritze
+Brandon Gale
+Troy Vennon
+Amanda Vu
 ## License
 
-This project is licensed under 
+This project is licensed under Creative Commons (CC)
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+
+Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
 
 ## Acknowledgments
 
