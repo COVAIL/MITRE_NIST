@@ -3,7 +3,7 @@
 
 ## What are you asking?
 
-The Columbus Collaboratory is asking the community to help us create mappings from CWE (common weakness enumeration) to NIST 800-53r4 moderate controls using our initial mapping formula.
+The [Columbus Collaboratory](https://columbuscollaboratory.com/) is asking the community to help us create mappings from CWE (common weakness enumeration) to NIST 800-53r4 moderate controls using our initial mapping formula.
 
 
 ## Why are you asking?
