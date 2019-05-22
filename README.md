@@ -25,6 +25,14 @@ Below is our data model and a sample of the “mashup”.  We have found that re
 
 ![alt text](https://github.com/ColumbusCollaboratory/MITRE_NIST/blob/master/datamodel.PNG) 
 
+CVE	|CWE ID	|CWE Name	|CAPEC ID|	CAPEC Name	|ATT&CK Technique Name	|ATT&CK Technique ID	|NIST SP 800-53r4
+---	|-----	|--------	|--------|	------------|-----------------------|---------------------|----------------
+CVE-2017-9788|CWE-20|Improper Input Validation|CAPEC-312	|Active OS Fingerprinting	|System Information Discovery|T1082|	 AT-3(3), SI-2, SI-11
+CVE | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+
 ## Example Use Cases
 
 To help illustrate a practical application for this mapping exercise we have included the following examples of a few common attacks and corresponding security controls that could be used to protect potential vulnerabilities from being exploited:
