@@ -1,3 +1,4 @@
+![alt text](https://github.com/ColumbusCollaboratory/MITRE_NIST/blob/master/cclogo.png "Logo Title Text 1")
 # A Crowdsourcing Exchange for mapping various sources of Information security vulnerabilities, exposures, threats, and controls data
 
 ## What are you asking?
