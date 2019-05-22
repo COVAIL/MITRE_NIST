@@ -54,17 +54,17 @@ To help illustrate a practical application for this mapping exercise we have inc
 ```
 |--NIST to CWE Exercise.csv
 ```
-List of CWE's along with a column to enter mappings to NIST.  This is what you pull and contribute your mappings.
+List of CWE's along with a column to enter mappings to NIST.  This is what you pull and how you contribute your mappings.
 
 ```
 |--Data Sources.xlsx.zip
 ```
-A worksheet of datasets as they pertain to our data model.  
+A worksheet containing the relevant datasets as they pertain to our data model.  
 
 ```
 |--Report Example.docx
 ```
-An example report of what can be produced from this comprehensive information security mashup.
+An example report of what can be produced from this threat-informed, information security mashup.
 
 ## Contribution Guidelines
 
