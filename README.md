@@ -68,11 +68,11 @@ Thank you for your suggestions!
 ## Versioning
 1.0
 ## Authors
-Gina Greco
-Jody Denner
-Brandon Ritze
-Brandon Gale
-Troy Vennon
+Gina Greco, 
+Jody Denner,
+Brandon Ritze,
+Brandon Gale,
+Troy Vennon,
 Amanda Vu
 ## License
 
