@@ -1,88 +1,55 @@
 # A Crowdsourcing Exchange for mapping various sources of Information security vulnerabilities, exposures, threats, and controls data
 
-One Paragraph of project description goes here
+## What are you asking?
 
-## Getting Started
+The Columbus Collaboratory is asking the community to help us create mappings from CWE (common weakness enumeration) to NIST 800-53r4 moderate controls using our initial mapping formula.
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-### Prerequisites
+## Why are you asking?
 
-What things you need to install the software and how to install them
+The Collaboratory team is trying to surface correlations and semantic relationships between available sources of information security vulnerabilities and exposures to attack types so we can better understand how attackers think about exploiting them.  By also relating controls sets like NIST 800-53 we hope to give cybersecurity teams comprehensive, threat-informed information that can help them manage and mitigate risk in various parts of their program.
 
-```
-Give examples
-```
+## How to get started?
 
-### Installing
+The Collaboratory team in their analytical approach has focused on the relationships between the following data sets:
+-	NVD
+-	CWE
+-	CVE
+-	CAPEC
+-	ATT&CK Technique
+-	NIST SP 800-53r4 moderate
 
-A step by step series of examples that tell you how to get a development env running
+Below is our data model and a sample of the “mashup”.  We have found that relating CVE, CWE, CAPEC, and ATT&CK technique to be fairly repeatable and programmatic whereas relating the controls set to be more challenging and manual.  We have chosen to crowdsource this aspect of the analysis and below is the initial mapping formula to guide your analysis.
 
-Say what the step will be
 
-```
-Give the example
-```
+## Contribution Guidelines
 
-And repeat
+Please ensure your pull request adheres to the following guidelines:
 
-```
-until finished
-```
+- Alphabetize your entry.
+- Search previous suggestions before making a new one, as yours may be a duplicate.
+- Suggested READMEs should be beautiful or stand out in some way.
+- Make an individual pull request for each suggestion.
+- New categories, or improvements to the existing categorization are welcome.
+- Keep descriptions short and simple, but descriptive.
+- Start the description with a capital and end with a full stop/period.
+- Check your spelling and grammar.
+- Make sure your text editor is set to remove trailing whitespace.
 
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+Thank you for your suggestions!
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under 
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+
 
