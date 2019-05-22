@@ -64,18 +64,9 @@ A worksheet of datasets as they pertain to our data model.
 ```
 |--Report Example.docx
 ```
-An example report of what can be produced from this comprehensive, threat-informed information mashup.
+An example report of what can be produced from this comprehensive information security mashup.
 
 ## Contribution Guidelines
-
-Please ensure your pull request adheres to the following guidelines:
-
-- Make an individual pull request for .
-- New categories, or improvements to the existing categorization are welcome.
-- Keep descriptions short and simple, but descriptive.
-- Start the description with a capital and end with a full stop/period.
-- Check your spelling and grammar.
-- Make sure your text editor is set to remove trailing whitespace.
 
 Thank you for your suggestions!
 
