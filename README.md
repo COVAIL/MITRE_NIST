@@ -23,7 +23,7 @@ The Collaboratory team in their analytical approach has focused on the relations
 Below is our data model and a sample of the “mashup”.  We have found that relating CVE, CWE, CAPEC, and ATT&CK technique to be fairly repeatable and programmatic whereas relating the controls set to be more challenging and manual.  We have chosen to crowdsource this aspect of the analysis and below is the initial mapping formula to guide your analysis.
 
 
-![alt text](https://github.com/ColumbusCollaboratory/MITRE_NIST/blob/master/datamodel.png) 
+![alt text](https://github.com/ColumbusCollaboratory/MITRE_NIST/blob/master/datamodel.PNG) 
 
 ## Example Use Cases
 
