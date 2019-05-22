@@ -64,8 +64,7 @@ A worksheet of datasets as they pertain to our data model.
 ```
 |--Report Example.docx
 ```
-
-- These files contain the processed ground truth for the medical *cause* and *treat* relations, in comma-separated format. The columns are:
+An example report of what can be produced from this comprehensive, threat-informed information mashup.
 
 ## Contribution Guidelines
 
