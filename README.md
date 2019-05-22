@@ -54,9 +54,7 @@ To help illustrate a practical application for this mapping exercise we have inc
 
 Please ensure your pull request adheres to the following guidelines:
 
-- Alphabetize your entry.
-- Search previous suggestions before making a new one, as yours may be a duplicate.
-- Make an individual pull request for each suggestion.
+- Make an individual pull request for .
 - New categories, or improvements to the existing categorization are welcome.
 - Keep descriptions short and simple, but descriptive.
 - Start the description with a capital and end with a full stop/period.
