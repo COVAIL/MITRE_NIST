@@ -25,6 +25,14 @@ Below is our data model and a sample of the “mashup”.  We have found that re
 
 ![alt text](https://github.com/ColumbusCollaboratory/MITRE_NIST/blob/master/datamodel.png) 
 
+## Example Use Cases
+
+To help illustrate a practical application for this mapping exercise we have included the following examples of a few common attacks and corresponding security controls that could be used to protect potential vulnerabilities from being exploited:
+
+1)    Password Spraying – a password spray attack is simply enumerating a list of users from an organization and “spraying” commonly used passwords against that list in an effort to “brute force” or crack a password of an account in order to gain unauthorized, but authenticated access to an organization.(insert mappings; addendum)
+2)    Malware replication – malware is malicious or infected code that actively replicates itself throughout your network. It can persist in the shape of a virus, spyware, worm, trojan, or ransomware.(insert mappings; addendum)
+
+3)    Network Access Control (NAC) bypass – wireless intruders can bypass 802.1x network access controls by sniffing network traffic with a man-in-the-middle attack/device, thus enabling the capture and ultimately spoofing of hardware Media Access Control (MAC) addresses of approved network devices to then emulate those devices on a local network.
 
 
 ## Contribution Guidelines
