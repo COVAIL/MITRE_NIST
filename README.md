@@ -55,9 +55,19 @@ To help illustrate a practical application for this mapping exercise we have inc
 |--NIST to CWE Exercise.csv
 ```
 
-These files contain the processed ground truth for the medical *cause* and *treat* relations, in comma-separated format. The columns are:
-* *SID*: unique ID of the sentence and term pair
-* *relation*: medical relation
+- List of CWE's along with a column to enter mappings to NIST
+
+```
+|--NIST to CWE Exercise.csv
+```
+
+- These files contain the processed ground truth for the medical *cause* and *treat* relations, in comma-separated format. The columns are:
+
+```
+|--NIST to CWE Exercise.csv
+```
+
+- These files contain the processed ground truth for the medical *cause* and *treat* relations, in comma-separated format. The columns are:
 
 ## Contribution Guidelines
 
