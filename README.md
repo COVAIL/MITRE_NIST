@@ -29,8 +29,17 @@ Below is our data model and a sample of the “mashup”.  We have found that re
 
 To help illustrate a practical application for this mapping exercise we have included the following examples of a few common attacks and corresponding security controls that could be used to protect potential vulnerabilities from being exploited:
 
-1)    Password Spraying – a password spray attack is simply enumerating a list of users from an organization and “spraying” commonly used passwords against that list in an effort to “brute force” or crack a password of an account in order to gain unauthorized, but authenticated access to an organization.(insert mappings; addendum)
-2)    Malware replication – malware is malicious or infected code that actively replicates itself throughout your network. It can persist in the shape of a virus, spyware, worm, trojan, or ransomware.(insert mappings; addendum)
+1)    Password Spraying – a password spray attack is simply enumerating a list of users from an organization and “spraying” commonly used passwords against that list in an effort to “brute force” or crack a password of an account in order to gain unauthorized, but authenticated access to an organization.
+
+Keywords: password blacklisting; commonly used, breach data; multi-factor	
+
+NIST controls: AC-12; AU-2; IA-2; IA-5 (1),(2), (4), (8), (10), (12); SI-11
+
+2)    Malware replication – malware is malicious or infected code that actively replicates itself throughout your network. It can persist in the shape of a virus, spyware, worm, trojan, or ransomware.
+
+Keywords: malicious code, mobile code, malware replication, code execution, network segmentation, shared admin 
+
+NIST controls: AC-4 (14); AC-6 (8) (10); AC-19; AT-2; AT-3(4); CM-10; IA-2(11); IR-6; IR-10; MA-3(2); MP-6(3); PL-8(2); SA-12(7); SA-19; SC-5; SC-7(9); SC-18 (1-5); SC-3(3); SC-34(1); SC-35; SC-37; SC-43; SC-44;SI-3 (1-10); SI-4 (24)
 
 3)    Network Access Control (NAC) bypass – wireless intruders can bypass 802.1x network access controls by sniffing network traffic with a man-in-the-middle attack/device, thus enabling the capture and ultimately spoofing of hardware Media Access Control (MAC) addresses of approved network devices to then emulate those devices on a local network.
 
