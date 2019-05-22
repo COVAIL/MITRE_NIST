@@ -54,17 +54,15 @@ To help illustrate a practical application for this mapping exercise we have inc
 ```
 |--NIST to CWE Exercise.csv
 ```
-
-- List of CWE's along with a column to enter mappings to NIST
-
-```
-|--NIST to CWE Exercise.csv
-```
-
-- These files contain the processed ground truth for the medical *cause* and *treat* relations, in comma-separated format. The columns are:
+List of CWE's along with a column to enter mappings to NIST.  This is what you pull and contribute your mappings.
 
 ```
-|--NIST to CWE Exercise.csv
+|--Data Sources.xlsx.zip
+```
+A worksheet of datasets as they pertain to our data model.  
+
+```
+|--Report Example.docx
 ```
 
 - These files contain the processed ground truth for the medical *cause* and *treat* relations, in comma-separated format. The columns are:
