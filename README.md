@@ -52,13 +52,13 @@ To help illustrate a practical application for this mapping exercise we have inc
 ## Dataset files
 
 ```
-|--ground_truth_cause.csv 
-|--ground_truth_treat.csv
+|--NIST to CWE Exercise.csv
 ```
 
 These files contain the processed ground truth for the medical *cause* and *treat* relations, in comma-separated format. The columns are:
 * *SID*: unique ID of the sentence and term pair
 * *relation*: medical relation
+
 ## Contribution Guidelines
 
 Please ensure your pull request adheres to the following guidelines:
