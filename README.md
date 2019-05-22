@@ -28,7 +28,7 @@ Below is our data model and a sample of the “mashup”.  We have found that re
 CVE	|CWE ID	|CWE Name	|CAPEC ID|	CAPEC Name	|ATT&CK Technique Name	|ATT&CK Technique ID	|NIST SP 800-53r4
 ---	|-----	|--------	|--------|	------------|-----------------------|---------------------|----------------
 CVE-2017-9788|CWE-20|Improper Input Validation|CAPEC-312	|Active OS Fingerprinting	|System Information Discovery|T1082|	 AT-3(3), SI-2, SI-11|
-CVE-2018-17082|CWE-79|Cross-Site Scripting (XSS)|||Drive-by Compromise|T1189	|AT-3(3), SI-2, SI-10
+CVE-2018-17082|CWE-79|Cross-Site Scripting|CAPEC-63|Cross-Site Scripting (XSS)|Drive-by Compromise|T1189	|AT-3(3), SI-2, SI-10
 CVE-2017-9798|CWE-416|Use After Free|CAPEC-312|Active OS Fingerprinting|System Information Discovery|T1082|IA-5
 
 ## Example Use Cases
